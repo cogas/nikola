@@ -26,7 +26,7 @@ SITE_URL = "https://cogas.github.io/nikola/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "n.tesla@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "Nikolaﾆｷを試しています。"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -175,16 +175,16 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = (
+    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl")
+    ("posts/*.html", "posts", "post.tmpl")
 )
 PAGES = (
+    ("pages/*.md", "pages", "story.tmpl"),
     ("pages/*.rst", "pages", "story.tmpl"),
     ("pages/*.txt", "pages", "story.tmpl"),
-    ("pages/*.html", "pages", "story.tmpl"),
-    ("pages/*.md", "pages", "story.tmpl")
+    ("pages/*.html", "pages", "story.tmpl")
 )
 
 
@@ -1006,7 +1006,7 @@ PRETTY_URLS = True
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
 #       with the MarkdownExtension class and should not be added here.
 # The default is ['fenced_code', 'codehilite']
-MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
+MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'smart_strong', 'footnotes', 'extra']
 
 # Extra options to pass to the pandoc comand.
 # by default, it's empty, is a list of strings, for example
