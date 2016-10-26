@@ -6,6 +6,50 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://cogas.github.io/nikola/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/2012/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/archive.html</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/blog/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/cat_nikola/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/demo/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/nikola/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/python/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/galleries/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/galleries/demo/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://cogas.github.io/nikola/ja/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
@@ -123,6 +167,70 @@
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/listings/hello.py.html</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/about-nikola/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/bootstrap-demo/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/charts/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/creating-a-theme/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/extending/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/handbook/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/internals/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/listings-demo/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/path-handlers/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/quickref/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/quickstart/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/slides-demo/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/social_buttons/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/pages/theming/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/posts/welcome-to-nikola/</loc>
+  <lastmod>2016-10-26T07:33:00Z</lastmod>
  </url>
 </urlset>
