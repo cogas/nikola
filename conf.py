@@ -21,7 +21,7 @@ BLOG_AUTHOR = "iuk"  # (translatable)
 BLOG_TITLE = "iuk site"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://cogas.github.io/nikola/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
