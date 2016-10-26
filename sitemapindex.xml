@@ -6,6 +6,14 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://cogas.github.io/nikola/authors/iuk.xml</loc>
+  <lastmod>2016-10-26T08:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://cogas.github.io/nikola/authors/roberto-alsina.xml</loc>
+  <lastmod>2016-10-26T08:15:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://cogas.github.io/nikola/categories/blog.xml</loc>
   <lastmod>2016-10-26T07:33:00Z</lastmod>
  </sitemap>
@@ -27,50 +35,18 @@
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/galleries/demo/rss.xml</loc>
-  <lastmod>2016-10-26T07:33:00Z</lastmod>
+  <lastmod>2016-10-26T08:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/galleries/rss.xml</loc>
-  <lastmod>2016-10-26T07:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/categories/blog.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/categories/cat_nikola.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/categories/demo.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/categories/nikola.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/categories/python.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/galleries/demo/rss.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/galleries/rss.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://cogas.github.io/nikola/ja/rss.xml</loc>
-  <lastmod>2016-10-26T07:28:00Z</lastmod>
+  <lastmod>2016-10-26T08:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/rss.xml</loc>
-  <lastmod>2016-10-26T07:33:00Z</lastmod>
+  <lastmod>2016-10-26T08:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/sitemap.xml</loc>
-  <lastmod>2016-10-26T07:33:00Z</lastmod>
+  <lastmod>2016-10-26T08:28:00Z</lastmod>
  </sitemap>
 </sitemapindex>
