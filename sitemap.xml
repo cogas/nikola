@@ -6,123 +6,123 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/ja/</loc>
+  <loc>https://cogas.github.io/nikola/ja/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/2012/</loc>
+  <loc>https://cogas.github.io/nikola/ja/2012/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/archive.html</loc>
-  <lastmod>2016-10-26T05:50:00Z</lastmod>
+  <loc>https://cogas.github.io/nikola/ja/archive.html</loc>
+  <lastmod>2016-10-26T07:28:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/categories/</loc>
+  <loc>https://cogas.github.io/nikola/ja/categories/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/categories/blog/</loc>
+  <loc>https://cogas.github.io/nikola/ja/categories/blog/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/categories/cat_nikola/</loc>
+  <loc>https://cogas.github.io/nikola/ja/categories/cat_nikola/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/categories/demo/</loc>
+  <loc>https://cogas.github.io/nikola/ja/categories/demo/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/categories/nikola/</loc>
+  <loc>https://cogas.github.io/nikola/ja/categories/nikola/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/categories/python/</loc>
+  <loc>https://cogas.github.io/nikola/ja/categories/python/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/galleries/</loc>
+  <loc>https://cogas.github.io/nikola/ja/galleries/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/galleries/demo/</loc>
+  <loc>https://cogas.github.io/nikola/ja/galleries/demo/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/about-nikola/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/about-nikola/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/bootstrap-demo/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/bootstrap-demo/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/charts/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/charts/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/creating-a-theme/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/creating-a-theme/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/extending/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/extending/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/handbook/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/handbook/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/internals/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/internals/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/listings-demo/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/listings-demo/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/path-handlers/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/path-handlers/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/quickref/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/quickref/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/quickstart/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/quickstart/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/slides-demo/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/slides-demo/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/social_buttons/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/social_buttons/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/pages/theming/</loc>
+  <loc>https://cogas.github.io/nikola/ja/pages/theming/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/ja/posts/welcome-to-nikola/</loc>
+  <loc>https://cogas.github.io/nikola/ja/posts/welcome-to-nikola/</loc>
   <lastmod>2016-10-26T05:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://cogas.github.io/nikola/listings/</loc>
   <lastmod>2016-10-26T04:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://cogas.github.io/nikola/listings/__pycache__/</loc>
   <lastmod>2016-10-26T04:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2016-10-26T05:50:00Z</lastmod>
+  <loc>https://cogas.github.io/nikola/listings/hello.py.html</loc>
+  <lastmod>2016-10-26T07:28:00Z</lastmod>
  </url>
 </urlset>
