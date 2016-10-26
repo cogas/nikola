@@ -19,23 +19,23 @@
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/archive.html</loc>
-  <lastmod>2016-10-26T08:28:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/authors/</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/authors/iuk/</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/authors/roberto-alsina/</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/categories/</loc>
-  <lastmod>2016-10-26T07:33:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/categories/blog/</loc>
@@ -48,6 +48,10 @@
  <url>
   <loc>https://cogas.github.io/nikola/categories/demo/</loc>
   <lastmod>2016-10-26T07:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cogas.github.io/nikola/categories/mathjax/</loc>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/categories/nikola/</loc>
@@ -75,7 +79,7 @@
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/listings/hello.py.html</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://cogas.github.io/nikola/pages/about-nikola/</loc>

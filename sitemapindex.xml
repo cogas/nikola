@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://cogas.github.io/nikola/authors/iuk.xml</loc>
-  <lastmod>2016-10-26T08:28:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/authors/roberto-alsina.xml</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/categories/blog.xml</loc>
@@ -26,6 +26,10 @@
   <lastmod>2016-10-26T07:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://cogas.github.io/nikola/categories/mathjax.xml</loc>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://cogas.github.io/nikola/categories/nikola.xml</loc>
   <lastmod>2016-10-26T07:33:00Z</lastmod>
  </sitemap>
@@ -35,18 +39,18 @@
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/galleries/demo/rss.xml</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/galleries/rss.xml</loc>
-  <lastmod>2016-10-26T08:15:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/rss.xml</loc>
-  <lastmod>2016-10-26T08:28:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://cogas.github.io/nikola/sitemap.xml</loc>
-  <lastmod>2016-10-26T08:28:00Z</lastmod>
+  <lastmod>2016-10-26T18:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>
